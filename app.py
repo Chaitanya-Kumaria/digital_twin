@@ -256,12 +256,8 @@ page = st.sidebar.radio(
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 💝 About")
 st.sidebar.info("""
-This is your girlfriend's digital twin,
-created with love for Valentine's Day 2026.
-
-She knows your memories, understands
-your relationship, and responds with
-the warmth and love you cherish.
+I love you Charu 💝.
+I always wanted to create something like this it is just a start and will build on this
 """)
 
 # Main content based on page selection
@@ -569,7 +565,7 @@ elif page == "📔 Journal":
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #c21e56; padding: 20px;'>
-    <p>💕 Made with love for Valentine's Day 2026 💕</p>
+    <p>💕 I love you Charu 💕</p>
     <p style='font-size: 0.8em;'>Powered by AI, Inspired by Love</p>
 </div>
 """, unsafe_allow_html=True)
